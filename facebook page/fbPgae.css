@@ -1,0 +1,206 @@
+header {
+  height: 91px;
+  background-color: #3b5998;
+}
+body {
+  margin: 0px;
+  padding: 0;
+  background: linear-gradient(white, #d3d8e8);
+}
+header > p {
+  display: inline-block;
+  width: 177px;
+  position: relative;
+  top: -35px;
+  left: 155px;
+  font-family: arial;
+  color: white;
+  font-size: 42px;
+  font-weight: 700;
+}
+header table {
+  display: inline-block;
+  position: relative;
+  left: 567px;
+  top: -10px;
+}
+p.info {
+  position: relative;
+  top: 21px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+header input {
+  height: 22px;
+  margin-right: 14px;
+  position: relative;
+  top: 11px;
+}
+header table td.info {
+  position: relative;
+  left: 196px;
+  top: 5px;
+}
+header input[type="button"] {
+  position: relative;
+  left: 559px;
+  top: -34px;
+  height: 24px;
+  width: 49px;
+  background-color: #2b3c63;
+  border: none;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 14px;
+}
+header a {
+  color: white;
+  text-decoration: none;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #a9bcf5;
+}
+section {
+  display: inline-block;
+  width: 671px;
+  height: 337px;
+}
+section p {
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: 7px;
+  left: 149px;
+  font-size: 19px;
+  font-weight: 550;
+  width: 454px;
+  display: inline-block;
+}
+section div img {
+  position: relative;
+  top: 0px;
+  left: 144px;
+  width: 519px;
+  height: 266px;
+}
+section + div {
+  position: relative;
+  top: -338px;
+  left: 753px;
+  width: 440px;
+}
+table th.c1,
+td.c1,
+span.c1,
+p.c1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+table p#i1 {
+  position: relative;
+  top: -54px;
+  left: -10px;
+  font-size: 44px;
+  width: 392px;
+}
+table p#i2 {
+  position: relative;
+  bottom: 107px;
+  font-size: 21px;
+}
+table tr.c2 {
+  position: relative;
+  bottom: 120px;
+}
+input.input {
+  height: 32px;
+  width: 213px;
+  border: 1px solid #bdbdbd;
+  color: #2e2e2e;
+  font-size: 18px;
+  border-radius: 5px;
+  margin-bottom: 2.5px;
+}
+input#surname {
+  position: relative;
+  right: 171px;
+}
+table input[size="40"] {
+  width: 438px;
+}
+td p.c1 {
+  position: relative;
+  bottom: 13px;
+}
+
+tr.c2 td.c2 {
+  position: relative;
+  right: 226px;
+}
+div.c1 {
+  display: inline;
+  position: relative;
+  bottom: 136px;
+  left: 5px;
+}
+select.c1 {
+  height: 24px;
+  position: relative;
+  bottom: 156px;
+}
+select + a {
+  font-size: 13px;
+  text-decoration: none;
+  position: relative;
+  bottom: 146px;
+  display: inline-block;
+  width: 161px;
+  left: 5px;
+}
+ul li {
+  display: inline;
+  position: relative;
+  bottom: 160px;
+  right: 46px;
+}
+li span {
+  font-size: 18.5px;
+}
+footer {
+  display: inline-block;
+  position: relative;
+  bottom: 518px;
+  left: 750px;
+  width: 422px;
+}
+footer input {
+  width: 205px;
+  height: 45px;
+  font-size: 19px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: "Freight Sans Bold", helvetica, arial, sans-serif;
+  font-weight: bold;
+  background: linear-gradient(#67ae55, #578843);
+  background-color: #69a74e;
+  border-color: #3b6e22 #3b6e22 #2c5115;
+  border: 1px solid;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  right: 3px;
+}
+footer a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #3b5998;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+footer span {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: #424242;
+  font-size: 14.5px;
+}
